@@ -17,3 +17,19 @@ This project was built while following a Flutter tutorial and serves as a learni
 - Basic package management
 
 ## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/Home_Page.png)
+
+### Add New Task
+
+![Add New Task](screenshots/Add_New_Task.png)
+
+### Check Task
+
+![Check Task](screenshots/Check_Task.png)
+
+### Delete Task
+
+![Delete Task](screenshots/Delete_Task.png)
