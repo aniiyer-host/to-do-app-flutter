@@ -7,8 +7,18 @@ class ToDoDatabase {
   
   void createInitialData(){
     toDoList = [
-      ["Finish Work", false],
-      ["Do Exercise", false],
+      {
+        "title": "Finish Work",
+        "completed": false,
+        "reminderTime": null,
+        "notificationId": null,
+      },
+      {
+        "title": "Do Exercise",
+        "completed": false,
+        "reminderTime": null,
+        "notificationId": null,
+      },
     ];
   }
 
